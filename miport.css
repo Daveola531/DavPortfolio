@@ -10,6 +10,9 @@ body {
       overflow-x: hidden;
 
     }
+html, body {
+    overflow-x: hidden;
+}
 
 .img-fluid {
     transition: transform .4s ease;
